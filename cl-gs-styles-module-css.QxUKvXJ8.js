@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkdraw=self.rspackChunkdraw||[]).push([[9640],{85787(s){s.exports={_:"gs__red-group__ZseBd",J:"gs__blue-group__ZseBd"}}}]);
